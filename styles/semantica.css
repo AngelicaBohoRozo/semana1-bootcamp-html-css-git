@@ -1,0 +1,29 @@
+body {
+    /* color de fondo */
+    background-color: red;
+}
+
+/* selector etiqueta*/
+header{
+    background-color: blueviolet;
+    width: 100; /* ancho */
+    height: 40px; /* alto */
+
+    color: white;
+
+}
+
+/* SELECTOR DE CLASE -> . */
+.contenedor{
+    /* bordes */
+    border: solid blueviolet;
+}
+
+/* selector ID */
+#list-unic{
+    background-color: brown;
+/* tamaño de letras */
+    font-size: 40px;
+}
+
+
